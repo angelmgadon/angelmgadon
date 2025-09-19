@@ -22,18 +22,19 @@ This space is where I bring together my expertise in **data analytics**, my pass
 
 ## 🌟 Featured Projects
 
-- 📈 [Real Estate Price Prediction](https://github.com/yourusername/real-estate-price-prediction)  
-  *Built a regression model to predict housing prices using historical market data.*
+Here are some highlighted works that bring together my skills in **data analytics**, **real estate**, and **finance**:  
 
-- 🏢 [Property Market Dashboard](https://github.com/yourusername/property-market-dashboard)  
-  *Interactive Power BI dashboard analyzing real estate trends and property sales.*
+- 📊 **[Films Database (SQL Project)](https://github.com/angelmgadon/films_db)**  
+  Designed a relational database in PostgreSQL, including schema creation, data import, and query optimization.  
 
-- 💹 [Stock Market Analysis](https://github.com/yourusername/stock-market-analysis)  
-  *Time-series analysis and visualization of financial market movements.*
+- 🏡 **[Real Estate Market Analysis](#)** *(to be added)*  
+  Exploratory data analysis and visualization of housing market trends to support data-driven investment decisions.  
 
-- 📊 [Customer Insights with SQL](https://github.com/yourusername/customer-insights-sql)  
-  *SQL queries and analysis to extract insights from a sales dataset.*
+- 💹 **[Financial Time Series Forecasting](#)** *(to be added)*  
+  Applied econometric methods to model and forecast financial data (e.g., stock returns, interest rates).  
 
+- 📑 **[Research Case Studies](#)** *(to be added)*  
+  Mini-projects and experiments applying econometrics and analytics to real-world datasets.  
 
 ---
 
